@@ -1,4 +1,4 @@
-# ATS CV
+# ATS Friendly CV
 
 ## Template
 Download My CV (docx):  
