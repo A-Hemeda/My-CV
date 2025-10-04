@@ -1,12 +1,12 @@
-## ATS Friendly CV
+# ATS Friendly CV
+<br>
 
 <p>
   <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/My CV-00A550?style=flat-square" style="height:43px; object-fit:contain;"/></a>
+    <img src="https://img.shields.io/badge/My CV-00A550?style=flat-square" style="height:57px; object-fit:contain;"/></a>
 </p>
 
-### Preview
+## Preview
 
-Check my CV score in ATS scan:
-
-[ResumeGo Checker](https://www.resumego.net/resume-checker/)
+Check my CV score in ATS Scan:
+## [ResumeGo Checker](https://www.resumego.net/resume-checker/)
