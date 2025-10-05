@@ -1,4 +1,4 @@
-# ATS Friendly CV
+# 100% ATS Friendly CV
 <br>
 
 <p>
