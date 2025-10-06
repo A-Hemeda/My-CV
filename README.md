@@ -9,4 +9,4 @@
 ## Preview
 
 Check my CV score in ATS Scan:
-## [ResumeGo Checker](https://www.resumego.net/resume-checker/)
+### [ResumeGo Checker](https://www.resumego.net/resume-checker/)
