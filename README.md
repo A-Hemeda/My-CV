@@ -2,7 +2,7 @@
 
 ## Template:
 Download My CV (docx):  
-[Download – Ahmed Hemeda CV](https://github.com/user-attachments/files/21707118/Ahmed.Hemeda.-.CV.docx)
+[Download – Ahmed Hemeda CV]()
 
 ## Preview
 Check my CV score in ATS scan:  
