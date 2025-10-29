@@ -11,4 +11,3 @@ Check my CV score in ATS scan:
 ## Customize
 - Replace my details with yours  
 - Keep the structure and formatting for ATS-friendly results  
-- Update each section with your information
