@@ -8,7 +8,7 @@ Download My CV (docx):
 [Ahmed Hemeda's ATS CV](https://github.com/user-attachments/files/23568548/A-Hemeda-CV.docx)
 
 ### Preview
-Check my CV score in ATS scan:  
+Check my (PDF) CV score in ATS scan:  
 [ResumeGo CV Checker](https://www.resumego.net/resume-checker/)
 
 #### Customize
@@ -28,9 +28,9 @@ Check my CV score in ATS scan:
 من هنا [CV أحمد حميدة (ATS)](https://github.com/user-attachments/files/23568548/A-Hemeda-CV.docx)
 
 ### معاينة
-شوف تقييم الـ CV بتاعي على أنظمة ATS:
+شوف تقييم الـ CV بتاعي على أنظمة ATS بس يكون PDF:
 
-من هنا [ResumeGo CV Checker](https://www.resumego.net/resume-checker/)
+المعاينة من هنا [ResumeGo CV Checker](https://www.resumego.net/resume-checker/)
 
 #### التخصيص
 - غيّر بياناتي وحط بياناتك.
