@@ -14,6 +14,7 @@ Check my CV score in ATS scan:
 - Replace my details with yours  
 - Keep the structure and formatting for ATS-friendly results
 
+
 ---
 
 ### سيرة ذاتية (CV) متوافقة مع أنظمة ATS بنسبة 100%
