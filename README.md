@@ -13,3 +13,23 @@ Check my CV score in ATS scan:
 #### Customize
 - Replace my details with yours  
 - Keep the structure and formatting for ATS-friendly results
+
+---
+
+## سيرة ذاتية (CV) متوافقة مع أنظمة ATS بنسبة 100%
+
+# [خدمة ATS CV 👉](https://www.job-ace.works)
+
+### القالب:
+حمّل الـ CV بتاعي (docx):
+
+من هنا [CV أحمد حميدة (ATS)](https://github.com/user-attachments/files/23568548/A-Hemeda-CV.docx)
+
+### معاينة
+شوف تقييم الـ CV بتاعي على أنظمة ATS:
+
+من هنا [ResumeGo CV Checker](https://www.resumego.net/resume-checker/)
+
+#### التخصيص
+- غيّر بياناتي وحط بياناتك.
+- سيب التصميم والتنسيق زي ما هو عشان تاخد أحسن نتيجة متوافقة مع أنظمة ATS.
