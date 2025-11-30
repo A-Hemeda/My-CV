@@ -1,6 +1,6 @@
 # 100% ATS CV
 
-# [ATS CV Service 👈](www.job-ace.works)
+# [ATS CV Service 👈](https://www.job-ace.works)
 
 ### Template:
 Download My CV (docx):  
@@ -19,7 +19,7 @@ Check my (PDF) CV score in ATS scan:
 
 ### سيرة ذاتية (CV) متوافقة مع أنظمة ATS بنسبة 100%
 
-# [خدمة ATS CV 👉](www.job-ace.works)
+# [خدمة ATS CV 👉](https://www.job-ace.works)
 
 ### القالب:
 حمّل الـ CV بتاعي (docx):
