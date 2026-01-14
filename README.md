@@ -4,8 +4,7 @@
 
 ### Template:
 Download My CV (docx):  
-[Ahmed Hemeda's ATS CV](https://github.com/user-attachments/files/23568548/A-Hemeda-CV.docx)
-
+<!-- [Ahmed Hemeda's ATS CV](https://github.com/user-attachments/files/23568548/A-Hemeda-CV.docx) -->
 ### Preview
 Check my (PDF) CV score in ATS scan:  
 [ResumeGo CV Checker](https://www.resumego.net/resume-checker/)
